@@ -26,6 +26,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="18dp"
+        android:contentDescription="@string/desc_diamond"
         app:srcCompat="@drawable/diamond_image" />
 
     <TextView
